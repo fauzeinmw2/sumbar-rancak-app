@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sumbar Rancak</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="detail">Detail</string>
+    <string name="favorit">Favorit</string>
+    <string name="share">Share</string>
+</resources>
